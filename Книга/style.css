@@ -1,0 +1,9 @@
+.map p{
+    width: 80%;
+    position: relative;
+    left: 10%;
+}
+
+.button button {
+    margin: 0.5%;
+}
